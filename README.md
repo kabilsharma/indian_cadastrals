@@ -10,6 +10,7 @@ Data available in the repository:
 * [Karnataka Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/karnataka)
 * [Kerala Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/kerala)
 * [Lakhadweep Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/lakshadweep)
+* [Madhya Pradesh Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/madhya-pradesh)
 * [Maharashtra Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/maharashtra)
 * [Puducherry Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/puducherry)
 * [Tamil Nadu Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/tamil-nadu)
