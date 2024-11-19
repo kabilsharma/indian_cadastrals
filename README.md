@@ -20,6 +20,7 @@ Data available in the repository:
 * [Puducherry Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/puducherry)
 * [Tamil Nadu Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/tamil-nadu)
 * [Telangana Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/telangana)
+* [Tripura Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/tripura)
 * [West Bengal Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/west-bengal)
 
 
