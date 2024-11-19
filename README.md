@@ -5,6 +5,7 @@ Data available in the repository:
 * [Andaman and Nicobar Island Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/andaman-and-nicobar)
 * [Delhi Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/delhi)
 * [Dadra and Nagar Haveli and Daman and Diu Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/dadra-and-nagar-haveli-and-daman-and-diu)
+* [Goa Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/goa)
 * [Gujarat Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/gujarat)
 * [Haryana Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/haryana)
 * [Jammu and Kashmir Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/jammu-and-kashmir)
