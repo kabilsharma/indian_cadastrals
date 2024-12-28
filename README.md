@@ -21,9 +21,11 @@ Data available in the repository:
 * [Odisha Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/odisha)
 * [Puducherry Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/puducherry)
 * [Punjab Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/punjab)
+* [Rajasthan Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/rajasthan)
 * [Tamil Nadu Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/tamil-nadu)
 * [Telangana Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/telangana)
 * [Tripura Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/tripura)
+* [Uttar Pradesh Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/uttar-pradesh)
 * [West Bengal Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/west-bengal)
 
 
