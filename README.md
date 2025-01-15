@@ -3,6 +3,7 @@
 Data available in the repository:
 * [Andhra Pradesh Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/andhra-pradesh)
 * [Andaman and Nicobar Island Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/andaman-and-nicobar)
+* [Assam Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/assam)
 * [Bihar Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/bihar)
 * [Chattisgrarh Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/chhattisgarh)
 * [Delhi Cadastrals](https://github.com/ramSeraph/indian_cadastrals/releases/tag/delhi)
